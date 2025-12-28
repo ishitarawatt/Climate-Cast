@@ -39,6 +39,7 @@ OpenWeatherMap API – Weather data
 Geolocation API – User location access
 
 ClimateCast/
+
 │
 ├── index.html        # Main HTML file
 ├── style.css         # Styling and UI design
